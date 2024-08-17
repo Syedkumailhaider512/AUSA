@@ -1,8 +1,8 @@
-# AUSA - Adaptive Universal Spacefaring AI-Humanoid System
+# AUSA - Adaptive Universal Simulation Agent
 
 ## Introduction
 
-AUSA (Adaptive Universal Spacefaring AI-Humanoid System) is a pioneering project that explores the adaptability of AI-powered humanoids in extraterrestrial environments. The project utilizes advanced machine learning algorithms to train a humanoid model that can predict its performance capabilities and respond effectively to various planetary conditions.
+AUSA (Adaptive Universal Simulation Agent) is a pioneering project that explores the adaptability of AI-powered humanoids in extraterrestrial environments. The project utilizes advanced machine learning algorithms to train a humanoid model that can predict its performance capabilities and respond effectively to various planetary conditions.
 
 ## Project Overview
 
