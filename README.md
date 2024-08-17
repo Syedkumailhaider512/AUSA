@@ -54,14 +54,20 @@ The following are the results obtained from various models after training:
 | Random Forest    | N/A    | N/A        | N/A   | 0.0130    |
 | XG Boost         | N/A    | N/A        | N/A   | 0.0064    |
 
+### Result Charts
+
+You can find the detailed charts and visualizations of the results in the `results` directory of this repository. These charts provide a visual representation of the model performances and their respective accuracies.
+
 ## Conclusion
 
 The AUSA project provides a systematic investigation into the adaptability of AI-humanoids in extraterrestrial settings. Through rigorous training and simulation, the project offers valuable insights into the challenges and opportunities of deploying adaptive AI systems in space exploration.
 
 ## Contributors
 
-- **Syed Kumail Haider** - Idea Contribution and Model Development
-- **Uswa Mariam** - Environmental Adaptation Strategies and Visionary Contributions
+- **[Syed Kumail Haider](https://github.com/syedkumailhaider512)** - Idea Contribution and Model Development
+  - LinkedIn: [Syed Kumail Haider](https://www.linkedin.com/in/syed-kumail-haider)
+- **[Uswa Mariam](https://github.com/uswamaryam12)** - Environmental Adaptation Strategies and Visionary Contributions
+  - LinkedIn: [Uswa Mariam](https://www.linkedin.com/in/uswamariam)
 
 ## License
 
